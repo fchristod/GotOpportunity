@@ -14,5 +14,5 @@ This is a Team Project that was developed by a small group of (2nd year) student
 
 **Deparmtent:** Computer Science (Applied Informatics)
 
-**Proffesors:** Alexandros Chatzigeorgiou, Apostolos Ampatzoglou
+**Professors:** Alexandros Chatzigeorgiou, Apostolos Ampatzoglou
  
