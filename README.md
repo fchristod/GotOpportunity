@@ -9,7 +9,10 @@ This is a Team Project that was developed by a small group of (2nd year) student
  
 ### Team Info
 **Members:** 10
+
 **University:** University of Macedonia
+
 **Deparmtent:** Computer Science (Applied Informatics)
+
 **Proffesors:** Alexandros Chatzigeorgiou, Apostolos Ampatzoglou
  
